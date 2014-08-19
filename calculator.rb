@@ -23,4 +23,4 @@ else
 say "That is not a valid option"
 	end
 
-	say "Result is #{result}"
+	say "Result is #{result}."
