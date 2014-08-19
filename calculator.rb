@@ -8,7 +8,7 @@ first_num = gets.chomp
 say "What is the second number?"
 second_num = gets.chomp
 
-say "What would you like to do? Press 1 to add, 2 to subtract, 3 to multiply and 4 to divide"
+say "What would you like to do? Press 1 to add, 2 to subtract, 3 to multiply and 4 to divide."
 math = gets.chomp
 
 if math == '1'
